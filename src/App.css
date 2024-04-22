@@ -1,0 +1,4 @@
+.DraftEditor-root {
+    flex: 1;
+    height: calc(100%) !important;
+}
